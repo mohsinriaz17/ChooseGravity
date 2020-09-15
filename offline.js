@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1598803760,
+	"version": 1600177868,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/button-sheet0.png",
 		"images/button-sheet1.png",
 		"images/almaz-sheet0.png",
+		"images/revive-sheet0.png",
 		"images/purchase_icon-sheet0.png",
 		"images/porchase_status-sheet0.png",
 		"images/rate-sheet0.png",
@@ -59,6 +60,7 @@
 		"images/vrag-sheet0.png",
 		"images/score-sheet0.png",
 		"images/spin-sheet0.png",
+		"images/play-sheet0.png",
 		"media/click.ogg",
 		"media/locked.ogg",
 		"media/unlock.ogg",
