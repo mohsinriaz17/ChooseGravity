@@ -26484,13 +26484,13 @@ cr.behaviors.lunarray_Tween = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.AJAX,
-	cr.plugins_.Translation,
-	cr.plugins_.List,
 	cr.plugins_.Audio,
 	cr.plugins_.Browser,
 	cr.plugins_.ATPShare,
 	cr.plugins_.cranberrygame_CordovaGame,
 	cr.plugins_.Function,
+	cr.plugins_.Translation,
+	cr.plugins_.List,
 	cr.plugins_.Sprite,
 	cr.plugins_.Spritefont2,
 	cr.plugins_.TiledBg,
